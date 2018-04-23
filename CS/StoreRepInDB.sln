@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreRepInDB", "StoreRepInDB.csproj", "{6B2FC5CA-F5F6-49A6-8846-8949F8601623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2FC5CA-F5F6-49A6-8846-8949F8601623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2FC5CA-F5F6-49A6-8846-8949F8601623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2FC5CA-F5F6-49A6-8846-8949F8601623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2FC5CA-F5F6-49A6-8846-8949F8601623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
