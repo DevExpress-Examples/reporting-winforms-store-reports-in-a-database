@@ -54,7 +54,7 @@ Namespace StoreRepInDB
 			' 
 			' xrLabel1
 			' 
-			Me.xrLabel1.Font = New System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold)
+			Me.xrLabel1.Font = New DevExpress.Drawing.DXFont("Times New Roman", 18F, DevExpress.Drawing.DXFontStyle.Bold)
 			Me.xrLabel1.Location = New System.Drawing.Point(175, 25)
 			Me.xrLabel1.Name = "xrLabel1"
 			Me.xrLabel1.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F)
