@@ -23,7 +23,7 @@ This example shows how to save (load) a report definition to (from) a database. 
 - [Reporting for ASP.NET MVC - Report Designer with Report Database Storage](https://github.com/DevExpress-Examples/reporting-web-mvc-db-storage)
 - [How to Implement a Custom Report Storage](https://github.com/DevExpress-Examples/reporting-winforms-custom-report-storage) 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-store-reports-in-a-database&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-store-reports-in-a-database&~~~was_helpful=no)
 
